@@ -1,0 +1,471 @@
+{
+    "name": "Bottled Items Annotations",
+    "securityToken": "Bottled Items Annotations Token",
+    "sourceConnection": {
+        "name": "Bottled Items",
+        "description": "All different types of bottled images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWNkZTMwNDAyYzk0YjdjZjY5YWQxNTNhNTczM2Q0NGI3MTFmNTExMTQ0OTUyMzZlMWViYjk1NDY3ODY0ODY3ZmVjMzhlOWM1ZmU3MDE2MDhjN2RiMDY3YWUzNWZmNzEzYjM4M2E2MDlmODNlNGFhZGQ1ODMxMjdmOGQ0NTg3MmYiLCJpdiI6IjVjY2ZkYjA1MzFkMjA0YWQyYzlmYTE5ZmM3ZmE3YTkyOTMzNzIxMmE5ODAzZTVkNCJ9"
+        },
+        "id": "IQYReIp5T"
+    },
+    "targetConnection": {
+        "name": "Annotations Bottled Items",
+        "description": "Annotations for all Bottled Items",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWEwMmI2ZmY4YmQwZjMyN2ExNDVmMjNlZGFlYjE3ZGFlNGJkYjM0ZWE1YWI2MmU5YWNiMGZhYWIwYzU1MDI1NzQxOGMzMDUxOTJlM2M0ZjgyMWYwNDM1MzBiNWVjNjAzOWM1YmM0YzZlZGExZDcxOGEzYTNjYTdjMDMzYjdkNTEiLCJpdiI6Ijk1YmZmNjYxYzI3MTgzNDg1OTBhZDBhY2M5YmZhNzcyMzBlMjgzZTY0MzA3NzUyMCJ9"
+        },
+        "id": "c6J-uNrnu"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Kissan Ketchup",
+            "color": "#5db300"
+        },
+        {
+            "name": "Heinz Ketchup",
+            "color": "#e81123"
+        },
+        {
+            "name": "Maggi Ketchup",
+            "color": "#6917aa"
+        },
+        {
+            "name": "Kissan Jam",
+            "color": "#015cda"
+        },
+        {
+            "name": "Kissan Fruit Squash",
+            "color": "#4894fe"
+        }
+    ],
+    "id": "TswrOJx91",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiY2E0MmRjZDAxNzBiNDFlM2MyMmFjNzVjYWE0N2ExNDIzMzZmMmIxZjJjNjVkOGFjMTU5M2U0NWE2YWVlZmExMWNjYmQyMWFhYzA2Mzk1OTY1YjdiODkxZGZiMGU5NzUwIiwiaXYiOiIzZGI0NDBjNmFjOTg3MTFkMmQ1NjhmODhjZDY0YmE2NDVhMjgyMmJhYjY4OWNkYjEifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "93a32a8de5a09a687b226ed3d88178ad",
+    "assets": {
+        "d4cbfad4ec3fd515f424b7f5c074c061": {
+            "format": "jpg",
+            "id": "d4cbfad4ec3fd515f424b7f5c074c061",
+            "name": "Kissan%20Ketchup1.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup1.jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55f22b0be3e39a69cc819da592599bd3": {
+            "format": "jpg",
+            "id": "55f22b0be3e39a69cc819da592599bd3",
+            "name": "Kissan%20Ketchup10.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup10.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cf9c8123ffa4e97212dd65c80a8b4fc": {
+            "format": "jpg",
+            "id": "9cf9c8123ffa4e97212dd65c80a8b4fc",
+            "name": "Kissan%20Ketchup11.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup11.jpg",
+            "size": {
+                "width": 133,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36dfcc49b72eb9cfc60cd17ad0538e72": {
+            "format": "jpg",
+            "id": "36dfcc49b72eb9cfc60cd17ad0538e72",
+            "name": "Kissan%20Ketchup12.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup12.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "047950efb8ba4121a24973c1485ae636": {
+            "format": "jpg",
+            "id": "047950efb8ba4121a24973c1485ae636",
+            "name": "Kissan%20Ketchup13.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup13.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9c7a2acb967688b5a55a74d949681f4d": {
+            "format": "jpg",
+            "id": "9c7a2acb967688b5a55a74d949681f4d",
+            "name": "Kissan%20Ketchup14.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup14.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "15be750d693f55f30dfeb0fb9093f2f0": {
+            "format": "jpg",
+            "id": "15be750d693f55f30dfeb0fb9093f2f0",
+            "name": "Kissan%20Ketchup15.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup15.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2d51f304b0ff5f3dfb0b0c74ca63b05": {
+            "format": "jpg",
+            "id": "e2d51f304b0ff5f3dfb0b0c74ca63b05",
+            "name": "Kissan%20Ketchup16.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup16.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e822e76bfc79557ba308d90910b9808": {
+            "format": "jpg",
+            "id": "6e822e76bfc79557ba308d90910b9808",
+            "name": "Kissan%20Ketchup17.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup17.jpg",
+            "size": {
+                "width": 150,
+                "height": 150
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eecbf79a348b35aa3c2e3b67e5d44b86": {
+            "format": "jpg",
+            "id": "eecbf79a348b35aa3c2e3b67e5d44b86",
+            "name": "Kissan%20Ketchup18.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup18.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45d84f04b10387ee0344b47a85cd9dd7": {
+            "format": "jpg",
+            "id": "45d84f04b10387ee0344b47a85cd9dd7",
+            "name": "Kissan%20Ketchup19.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup19.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb7b2f275bd41789761575c82b5d3b4b": {
+            "format": "jpg",
+            "id": "fb7b2f275bd41789761575c82b5d3b4b",
+            "name": "Kissan%20Ketchup2.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup2.jpg",
+            "size": {
+                "width": 289,
+                "height": 885
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c62d7749781b5bfa05648f0ecc172505": {
+            "format": "jpg",
+            "id": "c62d7749781b5bfa05648f0ecc172505",
+            "name": "Kissan%20Ketchup20.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup20.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8da81b50bc9fca2a405576b670813e7": {
+            "format": "jpg",
+            "id": "c8da81b50bc9fca2a405576b670813e7",
+            "name": "Kissan%20Ketchup21.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup21.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38bf2857e84245d0a8f6b7bda6ba50bb": {
+            "format": "jpg",
+            "id": "38bf2857e84245d0a8f6b7bda6ba50bb",
+            "name": "Kissan%20Ketchup22.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup22.jpg",
+            "size": {
+                "width": 255,
+                "height": 198
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8100f3bcd8c07b684ae2729b9047cc17": {
+            "format": "jpg",
+            "id": "8100f3bcd8c07b684ae2729b9047cc17",
+            "name": "Kissan%20Ketchup23.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup23.jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a9098e6a23ec2553336f90da80b02a1": {
+            "format": "jpg",
+            "id": "9a9098e6a23ec2553336f90da80b02a1",
+            "name": "Kissan%20Ketchup24.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup24.jpg",
+            "size": {
+                "width": 147,
+                "height": 342
+            },
+            "state": 2,
+            "type": 1
+        },
+        "178153d0c525fb0a9b4a16526762ea38": {
+            "format": "jpg",
+            "id": "178153d0c525fb0a9b4a16526762ea38",
+            "name": "Kissan%20Ketchup25.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup25.jpg",
+            "size": {
+                "width": 369,
+                "height": 136
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c657219578cbd45f7315081232e64a69": {
+            "format": "jpg",
+            "id": "c657219578cbd45f7315081232e64a69",
+            "name": "Kissan%20Ketchup26.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup26.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8baf2be14c9858e53acb3a89ce916320": {
+            "format": "jpg",
+            "id": "8baf2be14c9858e53acb3a89ce916320",
+            "name": "Kissan%20Ketchup27.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup27.jpg",
+            "size": {
+                "width": 177,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e8313d03e0bf400d8fd1bbb9b60cb1a": {
+            "format": "jpg",
+            "id": "2e8313d03e0bf400d8fd1bbb9b60cb1a",
+            "name": "Kissan%20Ketchup28.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup28.jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fba77b007a6fb04ad7764e4e8f52849c": {
+            "format": "jpg",
+            "id": "fba77b007a6fb04ad7764e4e8f52849c",
+            "name": "Kissan%20Ketchup29.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup29.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a2be05744b45003cab0475f078c6a72": {
+            "format": "jpg",
+            "id": "5a2be05744b45003cab0475f078c6a72",
+            "name": "Kissan%20Ketchup3.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup3.jpg",
+            "size": {
+                "width": 373,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f285228b00311174cceed3196f07eaee": {
+            "format": "jpg",
+            "id": "f285228b00311174cceed3196f07eaee",
+            "name": "Kissan%20Ketchup30.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup30.jpg",
+            "size": {
+                "width": 240,
+                "height": 210
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a3b9f2a7d349b222236b177699379ec": {
+            "format": "jpg",
+            "id": "0a3b9f2a7d349b222236b177699379ec",
+            "name": "Kissan%20Ketchup31.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup31.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55740a9cbc63e7a1e6d15713d286ee86": {
+            "format": "jpg",
+            "id": "55740a9cbc63e7a1e6d15713d286ee86",
+            "name": "Kissan%20Ketchup32.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup32.jpg",
+            "size": {
+                "width": 210,
+                "height": 210
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de8920c069ed431ee64c9d23c3b55db4": {
+            "format": "jpg",
+            "id": "de8920c069ed431ee64c9d23c3b55db4",
+            "name": "Kissan%20Ketchup33.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup33.jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "776657fcf62693719ba94473f1926b38": {
+            "format": "jpg",
+            "id": "776657fcf62693719ba94473f1926b38",
+            "name": "Kissan%20Ketchup34.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup34.jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd99e84181c3960c755a3136a6b61251": {
+            "format": "jpg",
+            "id": "fd99e84181c3960c755a3136a6b61251",
+            "name": "Kissan%20Ketchup4.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup4.jpg",
+            "size": {
+                "width": 952,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6615d8376d2ccd21e480e57f855787b6": {
+            "format": "jpg",
+            "id": "6615d8376d2ccd21e480e57f855787b6",
+            "name": "Kissan%20Ketchup5.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup5.jpg",
+            "size": {
+                "width": 600,
+                "height": 587
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d20dc91a3adc51942b0c416c149f959": {
+            "format": "jpg",
+            "id": "3d20dc91a3adc51942b0c416c149f959",
+            "name": "Kissan%20Ketchup6.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup6.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62d4b153655c0b192e5317f06adb5545": {
+            "format": "jpg",
+            "id": "62d4b153655c0b192e5317f06adb5545",
+            "name": "Kissan%20Ketchup7.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup7.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b15a2ddd245d5347c3e056f9e15d086": {
+            "format": "jpg",
+            "id": "3b15a2ddd245d5347c3e056f9e15d086",
+            "name": "Kissan%20Ketchup8.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup8.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93a32a8de5a09a687b226ed3d88178ad": {
+            "format": "jpg",
+            "id": "93a32a8de5a09a687b226ed3d88178ad",
+            "name": "Kissan%20Ketchup9.jpg",
+            "path": "file:C:/Users/Srishti/Desktop/GridGlob/Source/Kissan%20Ketchup9.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
